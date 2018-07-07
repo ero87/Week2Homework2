@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week2_Homework_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2_second">Main2ActivitySecond</string>
+    <string name="image_title1">Image title</string>
+    <string name="text0">0</string>
+    <string name="imagtle2">Image title2</string>
+</resources>

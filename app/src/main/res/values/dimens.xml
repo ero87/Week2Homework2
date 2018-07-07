@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cardHeight">240dp</dimen>
+    <dimen name="heig1">30dp</dimen>
+    <dimen name="textSize">25sp</dimen>
+    <dimen name="imaheheight">180dp</dimen>
+    <dimen name="tetxs">20sp</dimen>
+    <dimen name="magin">3dp</dimen>
+    <dimen name="marginTop">40dp</dimen>
+    <dimen name="edit_height">50dp</dimen>
+    <dimen name="marginp">220dp</dimen>
+</resources>
